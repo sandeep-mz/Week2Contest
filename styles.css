@@ -1,0 +1,111 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ddd;
+  }
+  
+  .sticky-nav {
+    position: sticky;
+    top: 0;
+    background-color: #333;
+    z-index: 100;
+  }
+  
+    .logo{
+    margin-right:1070px;
+    margin-left: 10px;
+    }
+
+    nav ul {
+      display: flex;
+      list-style: none;
+      padding: 10px;
+      
+    }
+    
+    nav li {
+      margin-right: 20px;
+    }
+    
+    nav a {
+      color: white;
+      text-decoration: none;
+      transition: color 0.3s;
+      padding: auto;
+    }
+    
+    nav a:hover {
+      color: rgb(17, 74, 245);
+    }
+    
+ 
+  .section {
+    width: 50%;
+    margin: 0 auto; /* Center align the section */
+    margin-top: 20px;
+    padding: 10px;
+    background-color: white;
+    border: 2px solid #ddd; /* Add a solid border */
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(103, 102, 102, 0.2), 0 6px 20px 0 rgba(94, 94, 94, 0.19);
+    border-radius: 5px;
+
+  }
+  
+  
+  .books-table th,
+  .books-table td {
+    border: 1px solid #d7d7d7;
+    padding: 5px;
+    padding-top: 10px;
+    text-align: left;
+    padding-bottom: 10px;
+  }
+  .books-table{
+    width: 100%;
+  }
+.table1{
+  width: none;
+}
+.small-tbl,.books-table{
+  width: 100%;
+  border-collapse: collapse;
+  
+}
+ 
+ 
+
+
+/* --------------for register section-------------------- */
+input[type="submit"] {
+  background-color: black;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="number"],
+input[type="password"] {
+    width: 100%; /* Make input fields span the full width */
+    padding: 5px;
+    box-sizing: border-box;
+  margin-bottom: 10px;
+    
+}
+
+.container{
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-bottom: 30px;
+}
