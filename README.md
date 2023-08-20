@@ -37,7 +37,6 @@ This project taught me several valuable lessons, including:
 In conclusion, I am pleased with the outcome of the project. It allowed me to apply and expand my web development skills while creating an engaging and functional library system webpage. I am submitting this project as part of my assignment and look forward to further feedback.
 
 #Contact✔️🔴
-If you have any questions or need further information about the project, you can contact the project owner at - @initialsandeep09@gmail.com.
-
+Feel free to explore the code and the deployed webpage. Your feedback is appreciated!
 GITHUB LINK - https://github.com/sandeep-mz/Week2Contest
 DEPLOYED LINK - https://sandeep-mz.github.io/Week2Contest/
