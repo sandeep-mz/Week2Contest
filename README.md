@@ -40,4 +40,5 @@ In conclusion, I am pleased with the outcome of the project. It allowed me to ap
 Feel free to explore the code and the deployed webpage. Your feedback is appreciated!
 
 GITHUB LINK - https://github.com/sandeep-mz/Week2Contest
+
 DEPLOYED LINK - https://sandeep-mz.github.io/Week2Contest/
